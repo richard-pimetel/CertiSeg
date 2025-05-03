@@ -17,7 +17,7 @@ export const certificates: Certificate[] = [
     price: 160.00,
     description: 'Certificado digital para pessoa física.',
     features: [
-      'Emissão em até 1 hora',
+      'Emissão em até 24 horas',
       'Compatível com todos os sistemas',
       'Suporte técnico especializado'
     ],
